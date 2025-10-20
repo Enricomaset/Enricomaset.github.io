@@ -1,14 +1,13 @@
 # Enricomaset.github.io
 <html>
-<body>
-<main>
-<header>
+  <header>
 <h1>La battaglia sacra tra il Falco e il Coniglio</h1>
 <p>Leggenda di una partita eterna giocata fra cielo e terra.</p>
 </header>
+<body>
+<main>
 <img src="images/23874967390_b2c2ac0fff_q.jpg">
 <img src="https://live.staticflickr.com/3223/2621134507_704b895330_b.jpg">
-<article>
 <p> Narra la leggenda che, in un tempo sospeso tra prato e cielo, si disputò la più grande partita mai giocata nel regno degli animali. </p>
 <p> Da una parte il <strong>Falco</strong>, re dell’aria: rapido come il vento e con una vista capace di prevedere ogni passaggio. Dall’altra il <strong>Coniglio</strong>, signore della terra: agile fra i fili d’erba, con dribbling fulminei che lasciavano dietro di sé soltanto polvere e stupore. </p>
 <p> Il campo era un prato sacro, segnato da rami e radici. Al centro brillava un pallone di rugiada. Fischiò la brezza del mattino: cominciò la sfida. </p>
@@ -18,12 +17,7 @@
 <p> Fu una partita di destini e riflessi, giocata fra cielo e radici. Passaggi tesi come fili, scatti rapidi come ombre. Alla fine, il pallone — stanco delle acrobazie — si fermò proprio sulla linea, indeciso se entrare o restare. </p>
 <p> Il sole, arbitro imparziale, decretò un <em>pareggio eterno</em>. Falcone e Coniglio si strinsero l’ala e la zampa. </p>
 <p> Da allora, si dice che ogni volta che il vento sfiora i campi e l’erba s’alza in un piccolo vortice, sono loro che giocano ancora, lassù e quaggiù, a calcetto tra cielo e terra. </p>
-</article>
-
-
-<footer>
-<p>Testo rielaborato e ottimizzato per lettura su schermo e accessibilità (semantica, alt text, caricamento differito delle immagini).</p>
-</footer>
+<script src="https://www.gdprset.it/widget/gdpr-it-1.js" type="text/javascript"></script>
 </main>
 </body>
 </html>
