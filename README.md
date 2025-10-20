@@ -1,4 +1,6 @@
 # Enricomaset.github.io
-theme: jekyll-theme-minimal
-title: Enricomaset's homepage
-description: Bookmark this to keep an eye on my project updates!
+<html>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
