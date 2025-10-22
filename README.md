@@ -1,4 +1,3 @@
-# Enricomaset.github.io
 <html>
   <header>
 <h1>Leggenda di una partita eterna giocata fra cielo e terra.</h1>
