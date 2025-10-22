@@ -17,6 +17,7 @@
 <p> Fu una partita di destini e riflessi, giocata fra cielo e radici. Passaggi tesi come fili, scatti rapidi come ombre. Alla fine, il pallone — stanco delle acrobazie — si fermò proprio sulla linea, indeciso se entrare o restare. </p>
 <p> Il sole, arbitro imparziale, decretò un <em>pareggio eterno</em>. Falcone e Coniglio si strinsero l’ala e la zampa. </p>
 <p> Da allora, si dice che ogni volta che il vento sfiora i campi e l’erba s’alza in un piccolo vortice, sono loro che giocano ancora, lassù e quaggiù, a calcetto tra cielo e terra. </p>
+  <a href="finale.html">scopri il finale </a>
 <script src="https://www.gdprset.it/widget/gdpr-it-1.js" type="text/javascript"></script>
 </main>
 </body>
