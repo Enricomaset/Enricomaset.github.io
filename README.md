@@ -12,7 +12,7 @@
 <a href="risultati.html">Scopri i risultati</a>
 <p>E non ci fermiamo qui: abbiamo in programma molti altri tornei, partite e avventure, perché per noi il calcio è più di un gioco — è un modo di vivere l’università con passione, amicizia e un pizzico di follia ingegneristica.</p>
 <a href="palmarés.html">Scopri il nostro plmarés</a>
-<p>Lasciamo il nostro <a href="https://www.instagram.com/laingenao/">Instagram</a> su cui puntiamo molto. Contiamo 42 follower e speriamo in futuro crescano.<\p>
+<p>Lasciamo il nostro <a href="https://www.instagram.com/laingenao/">Instagram</a> su cui puntiamo molto. Contiamo 42 follower e speriamo in futuro crescano.</p>
 <h1>FORZA INGEÑAO</h1>
 <script src="https://www.gdprset.it/widget/gdpr-it-1.js" type="text/javascript"></script>
 </main>
