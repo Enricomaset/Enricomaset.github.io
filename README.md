@@ -5,8 +5,9 @@
 <body>
 <main>
 <img src="images/Screenshot_20250428_111523_Gallery.jpg" width="200">
-<img src="images/MagliaGaraIngenao.jpg" width="200">
 <p>Benvenuti nel mondo della Ingeñao, squadra di calcio a 7 formata da studenti del dipartimento di ingegneria e architettura dell'università degli studi di Trieste. Nata tra i corridoi di Ingegneria e cresciuta guardando i grandi brasiliani dominare il mondo del calcio. Perché sì, noi giochiamo come loro: con il sorriso, con fantasia, e con quella leggerezza che fa sembrare ogni passaggio una danza.</p>
+<p>La nostra maglia dona eleganza e forza ad ogni componente della squadra, il nero viene accostato allo stile vivace e colorato brasiliano, per portare calma e razionalità dentro al campo.<\p>
+<img src="images/MagliaGaraIngenao.jpg" width="200">
 <p>Ci ispiriamo ai grandi come Kaká, Romário, Ronaldo, Neymar e cerchiamo di portare un po’ del loro spirito anche tra un esame e l’altro.</p>
 <img src="https://live.staticflickr.com/8283/7736159024_ded383cb8f_b.jpg" width="400">
 <p>Lo scorso maggio abbiamo partecipato al torneo organizzato da SIM, un’esperienza che ci ha fatto crescere come squadra e ci ha dato ancora più fame di vittoria.</p>
