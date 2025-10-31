@@ -16,7 +16,6 @@
 <a href="palmarès.html">Scopri il nostro plmarès</a>
 <p>Lasciamo il nostro <a href="https://www.instagram.com/laingenao/">Instagram</a> su cui puntiamo molto. Contiamo 42 follower e speriamo in futuro crescano.</p>
 <h1>FORZA INGEÑAO</h1>
-<audio controls><source src="musica.mp3" type="audio/mp3"></audio>
 <script src="https://www.gdprset.it/widget/gdpr-it-1.js" type="text/javascript"></script>
 </main>
 </body>
